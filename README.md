@@ -11,3 +11,10 @@ ________________________________________________________________________________
 ├── app.js              // Lógica en JavaScript (desarrollada)
 ├── assets/             // Imágenes del proyecto (proporcionadas)
 └── README.md           // Este archivo
+
+
+________________________________________________________________________________________________________________________________________________
+🕹️MODO DE JUEGO
+
+✅Simpre tiene que ser par para que no quede ninguno por fuera 
+✅digita los nombre, el programa solo los distribuye sin problema
